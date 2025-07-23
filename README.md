@@ -34,5 +34,4 @@ The primary objective of *Debatable* is to:
 
 ---
 
-## 📦 File Structure
 
